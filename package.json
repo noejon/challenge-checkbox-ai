@@ -1,10 +1,11 @@
 {
-  "name": "tech-challenges",
+  "name": "checkbox-ai-challenge",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "initialise": "pnpm i && cd server && pnpm i && cd ../client && pnpm i"
   },
   "keywords": [],
   "author": "",

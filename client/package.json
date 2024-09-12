@@ -8,7 +8,7 @@
     "dev": "vite",
     "lint": "eslint",
     "lint:fix": "eslint --fix",
-    "prepare": "cd ../.. && husky client/.husky",
+    "prepare": "cd .. && husky client/.husky",
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest"
