@@ -1,3 +1,0 @@
-cd checkboxai/server
-pnpm test
-pnpm lint

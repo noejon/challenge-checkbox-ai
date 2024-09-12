@@ -12,7 +12,7 @@
     "start": "node ./dist/main.js",
     "test": "vitest run",
     "test:watch": "vitest",
-    "prepare": "cd ../.. && husky checkboxai/server/.husky"
+    "prepare": "cd ../.. && husky server/.husky"
   },
   "keywords": [],
   "author": "",

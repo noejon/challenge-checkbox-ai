@@ -1,0 +1,3 @@
+cd client
+pnpm test
+pnpm lint
